@@ -2,4 +2,4 @@ Takes in a video, audio, or textfile and extracts the most common words as well 
 
 Intended for language learning use.
 
-Utilizes video editting, speech recognition, and natural language process (nltk). Used Janome library for lemmatizing Japanese.
+Utilizes python and various libraries: video editting (moviepy), speech recognition (SpeechRecognition), and natural language process (NLTK). Used Janome library for lemmatizing Japanese.
